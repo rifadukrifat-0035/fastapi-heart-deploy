@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.DS_Store
+
+# Data
+data/
+*.csv
+
+# Model (We are keeping the model for this project, but often large models are ignored)
+# model/heart_model.joblib 
+# (Commented out because Render needs the model file)
