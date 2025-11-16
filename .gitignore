@@ -9,6 +9,6 @@ venv/
 data/
 *.csv
 
-# Model (We are keeping the model for this project, but often large models are ignored)
-# model/heart_model.joblib 
-# (Commented out because Render needs the model file)
+# Model
+# We are keeping the model for this project, but Render needs it.
+# model/heart_model.joblib
